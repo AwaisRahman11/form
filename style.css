@@ -7,6 +7,11 @@
   width: 800px;
   margin-top: 20px;
 }
+body {
+  background-image: url(pexels-andrea-82255-253924.jpg);
+    background-size: 1200px;
+  background-repeat: no-repeat;
+}
 .row {
   border-radius: 5px;
 }
@@ -99,11 +104,6 @@ a {
 img {
   width: 35px;
   height: 35px;
-}
-body {
-  background-image: url(pexels-andrea-82255-253924.jpg);
-  background-size: cover;
-  /* background-position: center; */
 }
 .heading {
   display: flex;
