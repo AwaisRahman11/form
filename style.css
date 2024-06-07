@@ -103,7 +103,6 @@ body {
   background-image: url(pexels-sebastian-palomino-933481-1875480.jpg);
   background-size: cover;
   background-position: top;
-  background-repeat: no-repeat;
 }
 .heading {
   display: flex;
