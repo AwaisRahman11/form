@@ -101,10 +101,9 @@ img {
   height: 35px;
 }
 body {
-  background-image: url(pexels-sebastian-palomino-933481-1875480.jpg);
+   background-image: url(pexels-sebastian-palomino-933481-1875480.jpg);
   background-size: cover !important;
-  background-repeat: no-repeat !important;
-}
+  height: 800px;
 .heading {
   display: flex;
   justify-content: space-between;
