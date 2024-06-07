@@ -17,7 +17,7 @@ form {
   /* border: 1px solid; */
 }
 .row {
-  justify-content: center;
+  /* justify-content: center; */
 }
 
 .left {
@@ -101,9 +101,10 @@ img {
   height: 35px;
 }
 body {
-   background-image: url(pexels-sebastian-palomino-933481-1875480.jpg);
-  background-size: cover !important;
-  height: 800px;
+  background-image: url(pexels-andrea-82255-253924.jpg);
+  background-size: cover;
+  /* background-position: center; */
+}
 .heading {
   display: flex;
   justify-content: space-between;
@@ -117,15 +118,15 @@ body {
 button {
   width: 230px !important;
 }
-@media (max-width: 993px) {
+@media (max-width: 1103px) {
   button {
     width: 465px !important;
-    margin-top: 4px;
+    margin-top: 2px;
   }
 }
 @media (min-width: 601px) and (max-width: 992px) {
   button {
-    width: 415px !important;
+    width: 200px !important;
     margin-top: 2px;
   }
 }
