@@ -9,8 +9,9 @@
 }
 body {
   background-image: url(pexels-andrea-82255-253924.jpg);
-    background-size: 1200px;
+  background-size: 1900px 1400px;
   background-repeat: no-repeat;
+  /* background-position: center; */
 }
 .row {
   border-radius: 5px;
@@ -22,7 +23,7 @@ form {
   /* border: 1px solid; */
 }
 .row {
-  /* justify-content: center; */
+  justify-content: center;
 }
 
 .left {
@@ -126,7 +127,7 @@ button {
 }
 @media (min-width: 601px) and (max-width: 992px) {
   button {
-    width: 200px !important;
+    width: 300px !important;
     margin-top: 2px;
   }
 }
