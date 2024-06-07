@@ -79,6 +79,7 @@ a {
   background-image: url(pexels-ozanculha-12189045.jpg);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 .fa-regular,
 .fa-solid {
